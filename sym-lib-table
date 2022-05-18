@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "Test_lib")(type "KiCad")(uri "/home/evilscientist/2-Hobby/N_RSA-badge/Test_lib.kicad_sym")(options "")(descr ""))
+)
